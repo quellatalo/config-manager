@@ -65,6 +65,7 @@
                 <version>3.0.1</version>
                 <configuration>
                     <javadocExecutable>${java.home}/bin/javadoc</javadocExecutable>
+                    <source>8</source>
                 </configuration>
                 <executions>
                     <execution>
